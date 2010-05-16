@@ -1,5 +1,6 @@
 [
- {"section": "1-intro"},
- {"section": "2-theidea"}
- 
+ {"section": "0-intro"},
+ {"section": "1-theidea"},
+ {"section": "2-design"},
+ {"section": "3-static"}
  ]

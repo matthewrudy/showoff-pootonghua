@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# The Idea
+# Step1: The Idea
 
 !SLIDE
 
@@ -9,6 +9,10 @@
 !SLIDE
 
 ## but a little bit funny
+
+!SLIDE
+
+## eg. 《真他妈的好吃》
 
 !SLIDE
 
