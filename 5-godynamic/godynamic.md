@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Step5: Go Dynamic
+# Step5: Go Dynamic-ish
 
 !SLIDE
 
@@ -15,4 +15,4 @@
 # Tasks:
 * Choose a framework
 * Choose a datastore
-* Do it
+* Host it somewhere
