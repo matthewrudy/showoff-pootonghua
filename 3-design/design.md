@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Step2: The Design
+# Step3: The Design
 
 !SLIDE
 

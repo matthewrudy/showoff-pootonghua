@@ -1,6 +1,6 @@
 !SLIDE subsection
 
-# Step3: Static site
+# Step4: Static site
 
 !SLIDE
 
@@ -12,4 +12,9 @@
 
 !SLIDE center
 
-!(html)[html.png]
+![html](html.png)
+
+!SLIDE
+
+# using HTML5
+## just to put on my cv

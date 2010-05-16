@@ -10,14 +10,16 @@
 
 ## but a little bit funny
 
-!SLIDE
+!SLIDE bullets incremental
 
-## eg. 《真他妈的好吃》
+## eg.
+* 真他妈的好吃
+* Zhen ta ma de hao chi
+* Truly, fucking, delicious
 
-!SLIDE
+!SLIDE bullets incremental
 
-# The Name
-
-!SLIDE
-
-# **Poo**TongHua
+## why?
+* learning chinese
+* I'm silly
+* language learning =~ money

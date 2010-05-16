@@ -1,6 +1,7 @@
 [
  {"section": "0-intro"},
  {"section": "1-theidea"},
- {"section": "2-design"},
- {"section": "3-static"}
+ {"section": "2-name"},
+ {"section": "3-design"},
+ {"section": "4-static"}
  ]
