@@ -6,5 +6,6 @@
  {"section": "4-static"},
  {"section": "5-godynamic"},
  {"section": "6-sinatra"},
- {"section": "7-json"}
+ {"section": "7-json"},
+ {"section": "8-heroku"}
  ]
