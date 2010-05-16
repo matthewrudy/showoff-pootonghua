@@ -11,10 +11,9 @@
 
 !SLIDE code
 
-> require 'sinatra'
->
-> get '/' do
->   erb :index
-> end
-
-[https://gist.github.com/2e7a63bfa53d92c5dc1a](https://gist.github.com/2e7a63bfa53d92c5dc1a)
+    @@@ ruby
+    require 'sinatra'
+    
+    get '/' do
+      erb :index
+    end

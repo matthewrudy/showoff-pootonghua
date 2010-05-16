@@ -42,10 +42,17 @@
 (we'll think about proper storage later)
 
 !SLIDE code
-> [
-> {"id": 2,
-> "english": "How's your bum?",
-> "zhongwen": "你的屁股怎么样？",
-> "pinyin": "Ni3de pi4gu zen3me yang4?"
-> },
-> ...]
+
+    @@@ ruby
+    [{"id": 2,
+    "english": "How's your bum?",
+    "zhongwen": "你的屁股怎么样？",
+    "pinyin": "Ni3de pi4gu zen3me yang4?"
+    }]
+
+    require 'json'
+    POSTS = JSON.parse(File.read("posts.json"))
+    
+    <% POSTS.each do |post| %>
+      <p><%= post["english"] %></p>
+    <% end %>
