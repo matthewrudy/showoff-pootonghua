@@ -3,5 +3,7 @@
  {"section": "1-theidea"},
  {"section": "2-name"},
  {"section": "3-design"},
- {"section": "4-static"}
+ {"section": "4-static"},
+ {"section": "5-godynamic"},
+ {"section": "6-sinatra"}
  ]
