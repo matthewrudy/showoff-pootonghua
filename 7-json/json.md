@@ -56,3 +56,22 @@
     <% POSTS.each do |post| %>
       <p><%= post["english"] %></p>
     <% end %>
+    
+!SLIDE
+
+# we can fake dynamism
+
+!SLIDE code
+
+    @@@ ruby
+    POSTS = JSON.parse(File.read("posts.json"))
+    
+    get "/" do
+      @posts = POSTS
+      erb :index
+    end
+    
+    get "/posts/:id" do
+      @posts = POSTS.select{|p| p["id"] == params[:id].to_i}
+      erb :index
+    end
