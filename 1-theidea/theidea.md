@@ -12,14 +12,14 @@
 
 !SLIDE bullets incremental
 
-## eg.
+# eg.
 * 真他妈的好吃
 * Zhen ta ma de hao chi
 * Truly, fucking, delicious
 
 !SLIDE bullets incremental
 
-## why?
+# why?
 * learning chinese
 * I'm silly
 * language learning =~ money

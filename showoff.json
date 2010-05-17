@@ -8,5 +8,9 @@
  {"section": "6-sinatra"},
  {"section": "7-json"},
  {"section": "8-heroku"},
- {"section": "9-polish"}
+ {"section": "9-polish"},
+ {"section": "10-mongo"},
+ {"section": "11-mongoid"},
+ {"section": "12-mongohq"},
+ {"section": "13-conclusions"}
  ]

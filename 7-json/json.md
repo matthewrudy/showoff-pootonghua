@@ -43,13 +43,24 @@
 
 !SLIDE code
 
-    @@@ ruby
-    [{"id": 2,
-    "english": "How's your bum?",
-    "zhongwen": "你的屁股怎么样？",
-    "pinyin": "Ni3de pi4gu zen3me yang4?"
-    }]
+    @@@ javascript
+    # posts.json
+    [
+      {"id": 1,
+       "english": "We were just talking about you.",
+       "zhongwen": "我们刚才说起你。",
+       "pinyin": "Wo3men gang1cai2 shuo1 qi3 ni3."
+      },
+      {"id": 2,
+       "english": "How's your bum?",
+       "zhongwen": "你的屁股怎么样？",
+       "pinyin": "Ni3de pi4gu zen3me yang4?"
+      }
+    ]
+    
+!SLIDE code
 
+    @@@ ruby
     require 'json'
     POSTS = JSON.parse(File.read("posts.json"))
     

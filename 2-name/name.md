@@ -8,7 +8,7 @@
 
 !SLIDE bullets incremental
 
-## why?
+# why?
 * I already had the domain name
 * Puns are good domain names
 * Poos are always funny
