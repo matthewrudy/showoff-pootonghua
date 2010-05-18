@@ -19,7 +19,7 @@
     @@@ javascript
     # posts.json
     [
-      {"_id": "4bf003ce1d2bde1b6f000002",
+      {"_id": "4bf003ce1d2bde1b6f000001",
        "english": "We were just talking about you.",
        "zhongwen": "我们刚才说起你。",
        "pinyin": "Wo3men gang1cai2 shuo1 qi3 ni3."
